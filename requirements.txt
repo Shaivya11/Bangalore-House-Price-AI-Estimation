@@ -1,7 +1,7 @@
-pickle
+pickle5
 json
 streamlit
 os
 numpy
 pandas
-sklearn
+scikit-learn
